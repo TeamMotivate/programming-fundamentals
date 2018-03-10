@@ -12,7 +12,7 @@ namespace DebitCardNumber
         {
             // comment
             var n1 = int.Parse(Console.ReadLine());
-            var n2 = int.Parse(Console.ReadLine());
+            var num2 = int.Parse(Console.ReadLine());
             var n3 = int.Parse(Console.ReadLine());
             var n4 = int.Parse(Console.ReadLine());
 
