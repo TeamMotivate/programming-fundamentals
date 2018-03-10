@@ -10,7 +10,7 @@ namespace p03_MilesToKilometers
 			//comment
 			//comment 2
             double miles = double.Parse(Console.ReadLine());
-            double changedVariable = miles * 1.60934;
+            double ChangedVariable = miles * 1.60934;
 
             Console.WriteLine($"{kilometers:f2}");
         }
