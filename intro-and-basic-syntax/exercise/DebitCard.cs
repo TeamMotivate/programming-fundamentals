@@ -10,6 +10,7 @@ namespace DebitCardNumber
     {
         static void Main(string[] args)
         {
+            // comment
             var n1 = int.Parse(Console.ReadLine());
             var n2 = int.Parse(Console.ReadLine());
             var n3 = int.Parse(Console.ReadLine());
