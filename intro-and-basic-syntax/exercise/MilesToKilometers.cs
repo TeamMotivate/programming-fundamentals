@@ -6,6 +6,7 @@ namespace p03_MilesToKilometers
     {
         static void Main(string[] args)
         {
+			//comment from nelkov
             double miles = double.Parse(Console.ReadLine());
             double kilometers = miles * 1.60934;
 
