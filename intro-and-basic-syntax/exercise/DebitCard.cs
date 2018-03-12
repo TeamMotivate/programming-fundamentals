@@ -10,7 +10,9 @@ namespace DebitCardNumber
     {
         static void Main(string[] args)
         {
-            // comment
+            // comment from Patronov
+			// we receive dfrom the console four integers on a single line.
+			// we have to print them on the console in a creditcard format.
             var n1 = int.Parse(Console.ReadLine());
             var num2 = int.Parse(Console.ReadLine());
             var n3 = int.Parse(Console.ReadLine());
