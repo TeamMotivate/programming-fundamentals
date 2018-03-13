@@ -10,15 +10,23 @@ on the console, **formatted to the 2nd character after the decimal point**.
 #### Examples:
 
 **Input**
+
 2
+
 7
+
 **Output**
+
 14.00
 
-**Input*
+**Input**
+
 7
+
 8
+
 **Output**
+
 56.00
 
 ### Problem 5. Character Stats
@@ -28,54 +36,86 @@ Write a program, which **displays information** about a video game character. Yo
 #### Examples
 
 **Input**
+
 Mayro
+
 5
-10
-9
+
 10
 
+9
+
+10
+
+
 **Output**
+
 Name: Mayro
+
 Health: ||||||.....|
+
 Energy: ||||||||||.|
 
+
 **Input**
+
 Bauser
+
 10
+
 10
+
 10
+
 10
 
 **Output**
-Name: Bauser
-Health: ||||||||||||
-Energy: ||||||||||||
- 
 
- 
+Name: Bauser
+
+Health: ||||||||||||
+
+Energy: ||||||||||||
+
 
 **Input**
 Loogi
+
 8
+
 20
+
 2
+
 14
 
 **Output**
+
 Name: Loogi
+
 Health: |||||||||............|
+
 Energy: |||............|
+
 
 **Input**
 Toad
+
 0
+
 5
+
 0
+
 10
 
+
 **Output**
+
 Name: Toad
+
 Health: |.....|
+
 Energy: |..........|
 
 #### Hints
