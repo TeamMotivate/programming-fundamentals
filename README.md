@@ -9,7 +9,11 @@ on the console and **prints them** in **4-digit debit card format**. See the
 examples below for the appropriate formatting.
 
 #### Examples
-
+| Tables        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 
 ## Problem 2. Rectangle Area
