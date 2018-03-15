@@ -11,9 +11,9 @@ examples below for the appropriate formatting.
 #### Examples
 | Input        | Output           |
 | ------------- |:-------------:|
-| 12<br>433     | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| 12<br>433<br>1<br>5331 | right-aligned |
+| 9182<br>4221<br>12<br>3 | centered      |
+| 812<br>321<br>123<br>22 | are neat      |
 
 
 ## Problem 2. Rectangle Area
