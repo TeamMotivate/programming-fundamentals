@@ -9,9 +9,9 @@ on the console and **prints them** in **4-digit debit card format**. See the
 examples below for the appropriate formatting.
 
 #### Examples
-| Tables        | Are           |
+| Input        | Output           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
+| 12<br>433     | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
