@@ -2,13 +2,13 @@
 # Added comment to MilesToKilometers
 
 
-### Problem 1. Debit Card Number              
+## Problem 1. Debit Card Number              
 
 Write a program, which receives **4 integers**
 on the console and **prints them** in **4-digit debit card format**. See the
 examples below for the appropriate formatting.
 
-#### Examples
+### Examples
 | Input        | Output           |
 | ------------- |:-------------:|
 | 12<br>433<br>1<br>5331 | 0012 0433 0001 5331 |
