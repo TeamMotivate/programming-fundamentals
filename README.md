@@ -1,6 +1,4 @@
 # TEAM MOTIVATE
-# Added comment to MilesToKilometers
-
 
 ## Problem 1. Debit Card Number              
 
