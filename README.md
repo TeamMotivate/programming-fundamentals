@@ -26,9 +26,9 @@ on the console, **formatted to the 2nd character after the decimal point**.
 | 2<br>7   | 14.00  |
 | 7<br>8   | 56.00  |
 
-### Problem 3. Miles to Kilometers
+## Problem 3. Miles to Kilometers
 
-Write a program, which **converts****miles** to **kilometers**.
+Write a program, which **converts miles** to **kilometers**.
 **Format** the output to the **2nd
 decimal place**.
 
